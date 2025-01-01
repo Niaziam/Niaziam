@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Md. Niaz Uddin Tanim</h1>
 <h3 align="center">Passionate Full-Stack Developer | Web & Graphics Designer</h3>
-<h4 align="center">I’m MD. Niaz Uddin Tanim, a full-stack web developer and web designer with a passion for creating clean, efficient, and user-friendly applications. I’m skilled in both frontend and backend development and enjoy solving problems, whether it’s fixing bugs or improving functionality. I’m also a strong team player with leadership experience, always eager to take on new challenges and learn along the way. My goal is to keep growing in this field and deliver high-quality, practical solutions that exceed client expectations.</h4>
+<h4 align="center"> I'm MD. Niaz Uddin, a web developer and designer with a passion for creating clean, efficient, and user-friendly applications. I'm skilled in frontend development and enjoy solving problems, whether it's fixing bugs or improving functionality. I'm also a strong team player with leadership experience, always eager to take on new challenges and learn along the way. My goal is to keep growing in this field and deliver high-quality, practical solutions that exceed client expectations.</h4>
 
 <div align="center">
 
